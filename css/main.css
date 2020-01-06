@@ -188,7 +188,7 @@ nav.sticky {
 }
 
 .intro, .features, .portfolio, .contact {
-  text-align: center;
+  text-align: left;
 }
 
 .intro {
